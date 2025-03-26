@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "eEvo v1.7_MP8770-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/eEvo v1.7_MP8770-eagle-import.kicad_sym")(options "")(descr ""))
+)
